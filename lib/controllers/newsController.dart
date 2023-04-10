@@ -1,5 +1,5 @@
 import 'package:get/get.dart';
-import 'package:newsapp/services/newsServices.dart';
+import 'package:newsapp/services/newsServices';
 
 class NewsController extends GetxController {
   final NewsService _NewsService = NewsService();

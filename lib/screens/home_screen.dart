@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:newsapp/controllers/news_controller.dart';
+import 'package:newsapp/controllers/newsController.dart';
 import 'package:newsapp/screens/article_detail_screen.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:intl/intl.dart';
