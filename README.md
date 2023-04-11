@@ -21,3 +21,14 @@ Technical Requirements
 displaying images.
 6. Use Flutter WebView ( https://pub.dev/packages/webview_flutter )for displaying
 article content
+
+
+Results:
+- Home Screen with simple search controller based on keywords searching ability
+![image](https://user-images.githubusercontent.com/8468212/231036908-96c65212-5f11-4e76-a342-c05cdd1e3ee7.png)
+
+- Article Detail that show for every item search results with all informations that you mentioned
+![image](https://user-images.githubusercontent.com/8468212/231037027-ff39a0c8-8f8d-4eec-8fe8-966d99e1fb09.png)
+
+
+Thanks with my bests for you team 👍
