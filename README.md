@@ -1,16 +1,24 @@
 # newsapp
+This project is private related to the technical interview with DevCorp company
 
-A new Flutter project.
+1. Search:
+○ Users should be able to search for news articles by keyword(s).
+2. Article List:
+○ Users should be able to view a list of articles that match their search criteria.
+○ The article list should display the article&#39;s title, author, source, thumbnail, and
+published date.
+○ Users should be able to paginate through the article list.
+3. Article Detail:
+○ Users should be able to tap on an article from the list to view its detail page.
+○ The article detail page should display the article&#39;s title, author, source,
+thumbnail, published date, and content.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Technical Requirements
+1. Use the News API ( https://newsapi.org/ ) to fetch news articles.
+2. Use Get ( https://pub.dev/packages/get ) for state management.
+3. Use Dio ( https://pub.dev/packages/dio ) for HTTP requests.
+4. Use Intl ( https://pub.dev/packages/intl ) for date formatting.
+5. Use Cached Network Image ( https://pub.dev/packages/cached_network_image ) for
+displaying images.
+6. Use Flutter WebView ( https://pub.dev/packages/webview_flutter )for displaying
+article content
